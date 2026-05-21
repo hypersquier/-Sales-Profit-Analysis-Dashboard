@@ -61,7 +61,8 @@ This project analyzes retail sales performance using Excel and Power BI to ident
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/dashboard_preview.png)
+ <br /> <img width="1285" height="727" alt="Image" src="Screenshot 2026-05-21 160719.png" />
+
 
 ---
 
