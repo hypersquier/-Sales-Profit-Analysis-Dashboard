@@ -67,10 +67,8 @@ This project analyzes retail sales performance using Excel and Power BI to ident
 ---
 
 ## 📂 Files Included
-- sales_dashboard.pbix
-- cleaned_dataset.xlsx
-- dashboard_preview.png
-- README.md
+- [SuperStore.pbix](https://github.com/hypersquier/-Sales-Profit-Analysis-Dashboard/blob/main/SuperStore.pbix)
+- [cleaned_dataset.xlsx](https://github.com/hypersquier/-Sales-Profit-Analysis-Dashboard/blob/main/Clean%20data.7z)
 
 ---
 
